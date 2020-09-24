@@ -1,0 +1,15 @@
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\bin\Debug\netcoreapp3.1\Destiny2QuestManager.exe
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.csprojAssemblyReference.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.AssemblyInfoInputs.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.AssemblyInfo.cs
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\bin\Debug\netcoreapp3.1\Destiny2QuestManager.deps.json
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\bin\Debug\netcoreapp3.1\Destiny2QuestManager.runtimeconfig.json
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\bin\Debug\netcoreapp3.1\Destiny2QuestManager.runtimeconfig.dev.json
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\bin\Debug\netcoreapp3.1\Destiny2QuestManager.dll
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\bin\Debug\netcoreapp3.1\Destiny2QuestManager.pdb
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.csproj.CoreCompileInputs.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.csproj.CopyComplete
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.dll
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.pdb
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\Destiny2QuestManager\obj\Debug\netcoreapp3.1\Destiny2QuestManager.genruntimeconfig.cache

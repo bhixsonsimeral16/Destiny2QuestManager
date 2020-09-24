@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Swhls+qTsmribgi6Ng9dmMVm4xQyC4Ky/8tJulfK3piFAfKI8PaVwv1GSkOlF89EIU4bKfbnGKFOHrNrav39A==",
+  "success": true,
+  "projectFilePath": "Q:\\Repos\\Destiny2QuestManager\\Destiny2QuestManager\\Destiny2QuestManager\\Destiny2QuestManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
