@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTSzknIlWHowW26LHxhAmngCDtYBTsEnjao6nedYB/4X+LgvONgMktYc8AIMC+pZyPflHIVz052vuXQRQZC2wQ==",
+  "success": true,
+  "projectFilePath": "Q:\\Repos\\Destiny2QuestManager\\Destiny2QuestManager\\WindowsFormsApp1\\Destiny2QuestManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

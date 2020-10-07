@@ -1,0 +1,17 @@
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.exe
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.deps.json
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.json
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.runtimeconfig.dev.json
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\bin\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csprojAssemblyReference.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.GenerateResource.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfoInputs.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.AssemblyInfo.cs
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.dll
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.genruntimeconfig.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Q:\Repos\Destiny2QuestManager\Destiny2QuestManager\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csproj.CopyComplete
