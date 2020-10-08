@@ -19,6 +19,8 @@ namespace WindowsFormsApp1
 
         private async void button1_ClickAsync(object sender, EventArgs e)
         {
+            //Process.Start(new ProcessStartInfo("https://www.microsoft.com") { UseShellExecute = true });
+            //Process.Start("explorer.exe", "https://www.microsoft.com");
             //// Uses JSON.NET - http://www.nuget.org/packages/Newtonsoft.Json
             //using (var client = new HttpClient())
             //{
@@ -38,7 +40,7 @@ namespace WindowsFormsApp1
             const string code_challenge_method = "S256";
 
             // Creates a redirect URI using an available port on the loopback address.
-            string redirectURI = string.Format("http://localhost:55275/");
+            string redirectURI = string.Format("https://localhost:55275/");
             //String[] prefixes = { redirectURI, string.Format("http://localhost:{0}/", WebHelper.GetRandomUnusedPort()) };
             output("redirect URI: " + redirectURI);
 
@@ -62,7 +64,9 @@ namespace WindowsFormsApp1
                 code_challenge_method);
 
             // Opens request in the browser.
-            Process.Start(authorizationRequest);
+            // Using ShellExecute property to force browser rather than file explorer
+            // ref: https://stackoverflow.com/questions/21835891/process-starturl-fails
+            Process.Start(new ProcessStartInfo(authorizationRequest) { UseShellExecute = true });
 
             // Waits for the OAuth authorization response.
             var context = await http.GetContextAsync();
